@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lawlah007
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning HTML5, CSS
-- 💞️ I’m looking to collaborate on web developmwnt projects, desktop applications and mobile applications
+- 👀 I’m interested in UX Designing
+- 🌱 I’m currently learning web designing tools
+- 💞️ I’m looking to collaborate on web designing projects, user research and information architecture
 - 📫 How to reach me lawlah007@gmail.com
 
 <!---
